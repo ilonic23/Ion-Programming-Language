@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b12gZFe/7BPoDyKdBdTiwmvWFP6jVQhviEUtnI420Eur8FOJFwpZ/FUhQnFQ7t2FImwERxbKLPz1okdhIEahGA==",
+  "success": true,
+  "projectFilePath": "/home/ilia/Projects/CSharp/Ion/Ion/Ion.csproj",
+  "expectedPackageFiles": [
+    "/home/ilia/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/ilia/.nuget/packages/microsoft.netframework.referenceassemblies.net461/1.0.2/microsoft.netframework.referenceassemblies.net461.1.0.2.nupkg.sha512",
+    "/home/ilia/.nuget/packages/tommy/3.1.2/tommy.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

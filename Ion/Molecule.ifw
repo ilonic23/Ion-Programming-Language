@@ -1,0 +1,11 @@
+# Molecule framework for Ion
+
+framework Molecule {
+
+    Math {
+        public prop float PI = 3.1415926535897932384 { get, private set };
+        
+        
+    }
+
+}

@@ -1,0 +1,13 @@
+title = "Configuration"
+[project.info]
+name = "test"
+version = 1.0.0
+author = ""
+
+[project.ion]
+included = []
+version = 1.0.0
+
+[project.debug]
+debug = true
+log = false

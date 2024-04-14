@@ -1,0 +1,17 @@
+/home/ilia/Projects/CSharp/Ion/Ion/bin/Debug/net7.0/Ion
+/home/ilia/Projects/CSharp/Ion/Ion/bin/Debug/net7.0/Ion.deps.json
+/home/ilia/Projects/CSharp/Ion/Ion/bin/Debug/net7.0/Ion.runtimeconfig.json
+/home/ilia/Projects/CSharp/Ion/Ion/bin/Debug/net7.0/Ion.dll
+/home/ilia/Projects/CSharp/Ion/Ion/bin/Debug/net7.0/Ion.pdb
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.csproj.AssemblyReference.cache
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.AssemblyInfoInputs.cache
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.AssemblyInfo.cs
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.csproj.CoreCompileInputs.cache
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.dll
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/refint/Ion.dll
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.pdb
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.genruntimeconfig.cache
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/ref/Ion.dll
+/home/ilia/Projects/CSharp/Ion/Ion/bin/Debug/net7.0/Tommy.dll
+/home/ilia/Projects/CSharp/Ion/Ion/obj/Debug/net7.0/Ion.csproj.CopyComplete
